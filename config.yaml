@@ -1,0 +1,3 @@
+- default:
+    source: user:pass@server/folder
+    destination: user:pass@otherserver/folder
